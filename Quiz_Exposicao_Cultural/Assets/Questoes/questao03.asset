@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d168f9540195e7641960ba4188f9ea67, type: 3}
+  m_Name: questao03
+  m_EditorClassIdentifier: 
+  TextoQuestao: Como o Islamismo chegou ao Brasil?
+  Alternativas:
+  - TextoAlternativa: "Nigerianos trazidos ao Brasil que praticavam o islamismo acabaram
+      trazendo essa cultura para c\xE1"
+    EstaCerto: 0
+  - TextoAlternativa: O islamismo se fundou no Brasil
+    EstaCerto: 0
+  - TextoAlternativa: "muitos escravos africanos trazidos ao pa\xEDs praticavam o
+      islamismo"
+    EstaCerto: 1
+  - TextoAlternativa: Haitianos trazidos ao Brasil praticavam muito o islamismo
+    EstaCerto: 0

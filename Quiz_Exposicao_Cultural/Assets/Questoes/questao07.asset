@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d168f9540195e7641960ba4188f9ea67, type: 3}
+  m_Name: questao07
+  m_EditorClassIdentifier: 
+  TextoQuestao: Cite alguns lugares sagrados
+  Alternativas:
+  - TextoAlternativa: Igreja, Mesquita, templo
+    EstaCerto: 0
+  - TextoAlternativa: "Meca, entrada do Pal\xE1cio, Capela"
+    EstaCerto: 0
+  - TextoAlternativa: "Meca, Mesquita e Ar\xE1bia Saudita"
+    EstaCerto: 1
+  - TextoAlternativa: "Ar\xE1bia Saudita, igreja, entrada do Pal\xE1cio"
+    EstaCerto: 0

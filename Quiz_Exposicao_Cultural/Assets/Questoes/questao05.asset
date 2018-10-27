@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d168f9540195e7641960ba4188f9ea67, type: 3}
+  m_Name: questao05
+  m_EditorClassIdentifier: 
+  TextoQuestao: "O que s\xE3o os Pilares do Islamismo?"
+  Alternativas:
+  - TextoAlternativa: "F\xE9, ora\xE7\xE3o, fazer caridade, jejuar, peregrina\xE7\xE3o
+      a Meca"
+    EstaCerto: 1
+  - TextoAlternativa: "Respeito, prosperidade, f\xE9, compaix\xE3o, solidariedade"
+    EstaCerto: 0
+  - TextoAlternativa: "S\xE3o cinco elementos sagrados da religi\xE3o"
+    EstaCerto: 0
+  - TextoAlternativa: "S\xE3o cinco regras que devem ser seguidas restritamente pelos
+      quais praticam a religi\xE3o"
+    EstaCerto: 0
